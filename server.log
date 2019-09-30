@@ -1,0 +1,85 @@
+2019-09-26 17:02:57,526 - INFO - Server started with localhost:8000
+2019-09-26 17:03:12,194 - INFO - Client 127.0.0.1:52271 was connected
+2019-09-26 17:03:19,397 - DEBUG - Request: {"action": "echo", "data": "test", "time": 1569506592.189033}
+2019-09-26 17:05:34,824 - INFO - Client 127.0.0.1:52300 was connected
+2019-09-26 17:05:38,660 - ERROR - Action with name dsds not found
+2019-09-26 19:21:05,152 - INFO - Client 127.0.0.1:53343 was connected
+2019-09-26 19:21:08,956 - DEBUG - Request: {"action": "echo", "data": "text", "time": 1569514865.124983}
+2019-09-26 20:19:06,933 - INFO - Client 127.0.0.1:53668 was connected
+2019-09-26 20:19:57,214 - ERROR - Action with name test not found
+2019-09-26 20:20:19,385 - INFO - Client 127.0.0.1:53672 was connected
+2019-09-26 20:20:30,117 - DEBUG - Request: {"action": "echo", "data": "time", "time": 1569518419.380661}
+2019-09-26 20:23:07,492 - INFO - Client 127.0.0.1:53680 was connected
+2019-09-26 20:23:12,897 - ERROR - Wrong request: {'action': '', 'data': 'time', 'time': 1569518587.484845}
+2019-09-26 20:32:38,118 - INFO - Client 127.0.0.1:53731 was connected
+2019-09-26 20:32:44,195 - DEBUG - Request: {"action": "timestamp", "data": "time", "time": 1569519158.110394}
+2019-09-29 16:26:12,377 - INFO - Client 127.0.0.1:60983 was connected
+2019-09-29 16:27:34,011 - DEBUG - Request: {"action": "echo", "data": "test", "time": 1569763572.338472}
+2019-09-29 16:32:38,282 - INFO - Server started with localhost:8000
+2019-09-29 16:32:48,814 - INFO - Client 127.0.0.1:61042 was connected
+2019-09-29 16:32:55,544 - DEBUG - request: {'action': 'echo', 'data': 'test', 'time': 1569763968.810813} - response: {'action': 'echo', 'time': 1569763958.272588, 'code': 200, 'data': 'test'}
+2019-09-29 16:32:55,545 - DEBUG - Request: {"action": "echo", "data": "test", "time": 1569763968.810813}
+2019-09-29 16:44:40,732 - INFO - Client 127.0.0.1:61158 was connected
+2019-09-29 16:44:47,240 - DEBUG - request: {'action': 'echo', 'data': 'test', 'time': 1569764680.721576} - response: {'action': 'echo', 'time': 1569763958.272588, 'code': 200, 'data': 'test'}
+2019-09-29 16:44:47,241 - DEBUG - Request: {"action": "echo", "data": "test", "time": 1569764680.721576}
+2019-09-29 16:46:13,752 - INFO - Server started with localhost:8000
+2019-09-29 16:46:25,264 - INFO - Client 127.0.0.1:61169 was connected
+2019-09-29 16:46:30,495 - DEBUG - request: {'action': 'echo', 'data': 'test', 'time': 1569764785.257504} - <class 'dict'> -  response: {'action': 'echo', 'time': 1569764773.745334, 'code': 200, 'data': 'test'}
+2019-09-29 16:46:30,495 - DEBUG - Request: {"action": "echo", "data": "test", "time": 1569764785.257504}
+2019-09-29 16:48:12,875 - INFO - Server started with localhost:8000
+2019-09-29 16:48:21,250 - INFO - Client 127.0.0.1:61182 was connected
+2019-09-29 16:48:26,874 - DEBUG - request: {'action': 'echo', 'data': 'test', 'time': 1569764901.246478} - <class 'str'> -  response: {'action': 'echo', 'time': 1569764892.870413, 'code': 200, 'data': 'test'}
+2019-09-29 16:48:26,874 - DEBUG - Request: {"action": "echo", "data": "test", "time": 1569764901.246478}
+2019-09-29 16:52:31,235 - INFO - Server started with localhost:8000
+2019-09-29 16:52:39,168 - INFO - Client 127.0.0.1:61211 was connected
+2019-09-29 16:52:46,431 - DEBUG - request: {'action': 'echo', 'data': 'message', 'time': 1569765159.164376} - type data: <class 'str'> -  response: {'action': 'echo', 'time': 1569765151.229297, 'code': 200, 'data': 'message'}
+2019-09-29 16:52:46,439 - DEBUG - Request: {"action": "echo", "data": "message", "time": 1569765159.164376}
+2019-09-29 19:32:53,878 - INFO - Client 127.0.0.1:62779 was connected
+2019-09-29 19:33:12,328 - INFO - Server started with localhost:8000
+2019-09-29 19:33:22,168 - INFO - Client 127.0.0.1:62780 was connected
+2019-09-29 19:34:42,527 - INFO - Server started with localhost:8000
+2019-09-29 19:34:53,835 - INFO - Client 127.0.0.1:62789 was connected
+2019-09-29 19:35:52,153 - INFO - Server started with localhost:8000
+2019-09-29 19:36:33,907 - INFO - Client 127.0.0.1:62793 was connected
+2019-09-29 19:37:36,482 - INFO - Server started with localhost:8000
+2019-09-29 19:37:49,509 - INFO - Client 127.0.0.1:62801 was connected
+2019-09-29 19:37:54,602 - DEBUG - request: {'action': 'echo', 'data': 'test', 'time': 1569775069.504632} - type data: <class 'str'> -  response: {'action': 'echo', 'time': 1569775056.473842, 'code': 200, 'data': 'test'}
+2019-09-29 19:37:54,602 - DEBUG - Request: {"action": "echo", "data": "test", "time": 1569775069.504632}
+2019-09-29 19:38:33,688 - INFO - Client 127.0.0.1:62804 was connected
+2019-09-29 19:38:40,268 - DEBUG - request: {'action': 'echo', 'data': 'test', 'time': 1569775069.504632} - type data: <class 'str'> -  response: {'action': 'echo', 'time': 1569775056.473842, 'code': 200, 'data': 'test'}
+2019-09-29 19:38:40,269 - DEBUG - Request: {"action": "echo", "data": "test", "time": 1569775069.504632}
+2019-09-30 12:10:54,419 - INFO - Server started with localhost:8000
+2019-09-30 12:11:04,848 - INFO - Client 127.0.0.1:49891 was connected
+2019-09-30 12:12:09,656 - INFO - Client 127.0.0.1:49917 was connected
+2019-09-30 12:12:18,237 - DEBUG - request: {'action': 'echo', 'data': 'hello', 'time': 1569834729.652424} - type data: <class 'str'> -  response: {'action': 'echo', 'time': 1569834654.406957, 'code': 200, 'data': 'hello'}
+2019-09-30 12:12:18,238 - DEBUG - Request: {"action": "echo", "data": "hello", "time": 1569834729.652424}
+2019-09-30 12:13:09,082 - ERROR - Wrong request: {'action': '', 'data': 'www', 'time': 1569834729.652424}
+2019-09-30 12:15:42,798 - INFO - Client 127.0.0.1:49964 was connected
+2019-09-30 12:15:48,469 - DEBUG - request: {'action': 'echo', 'data': 'test', 'time': 1569834942.79272} - type data: <class 'str'> -  response: {'action': 'echo', 'time': 1569834654.406957, 'code': 200, 'data': 'test'}
+2019-09-30 12:15:48,470 - DEBUG - Request: {"action": "echo", "data": "test", "time": 1569834942.79272}
+2019-09-30 12:16:15,168 - INFO - Client 127.0.0.1:49969 was connected
+2019-09-30 12:16:25,940 - DEBUG - request: {'action': 'echo', 'data': 'ffff', 'time': 1569834942.79272} - type data: <class 'str'> -  response: {'action': 'echo', 'time': 1569834654.406957, 'code': 200, 'data': 'ffff'}
+2019-09-30 12:16:25,941 - DEBUG - Request: {"action": "echo", "data": "ffff", "time": 1569834942.79272}
+2019-09-30 12:45:57,799 - INFO - Server started with localhost:8000
+2019-09-30 12:46:56,824 - INFO - Client 127.0.0.1:50257 was connected
+2019-09-30 12:57:46,409 - INFO - Server started with localhost:8000
+2019-09-30 12:57:57,539 - INFO - Client 127.0.0.1:50336 was connected
+2019-09-30 12:58:11,193 - INFO - Client 127.0.0.1:50339 was connected
+2019-09-30 12:58:16,900 - DEBUG - request: {'action': 'echo', 'data': 'hello', 'time': 1569837491.189903} - type data: <class 'str'> -  response: {'action': 'echo', 'time': 1569837466.399888, 'code': 200, 'data': 'hello'}
+2019-09-30 12:58:16,900 - DEBUG - Request: {"action": "echo", "data": "hello", "time": 1569837491.189903}
+2019-09-30 15:59:31,581 - INFO - Client 127.0.0.1:52863 was connected
+2019-09-30 15:59:41,389 - INFO - Client 127.0.0.1:52865 was connected
+2019-09-30 15:59:45,401 - DEBUG - request: {'action': 'echo', 'data': 'dfdf', 'time': 1569848381.385266} - type data: <class 'str'> -  response: {'action': 'echo', 'time': 1569837466.399888, 'code': 200, 'data': 'dfdf'}
+2019-09-30 15:59:45,404 - DEBUG - Request: {"action": "echo", "data": "dfdf", "time": 1569848381.385266}
+2019-09-30 16:38:37,007 - INFO - Server started with localhost:8000
+2019-09-30 16:38:45,261 - INFO - Client 127.0.0.1:53316 was connected
+2019-09-30 16:41:48,766 - INFO - Client 127.0.0.1:53348 was connected
+2019-09-30 16:43:38,897 - INFO - Client 127.0.0.1:53371 was connected
+2019-09-30 16:45:01,831 - INFO - Client 127.0.0.1:53388 was connected
+2019-09-30 16:45:05,272 - DEBUG - request: {'action': 'echo', 'data': 'sasa', 'time': 1569851101.82778} - type data: <class 'str'> -  response: {'action': 'echo', 'time': 1569850717.002007, 'code': 200, 'data': 'sasa'}
+2019-09-30 16:45:05,272 - DEBUG - Request: {"action": "echo", "data": "sasa", "time": 1569851101.82778}
+2019-09-30 16:45:14,065 - ERROR - Action with name ssds not found
+2019-09-30 16:45:20,819 - ERROR - Action with name asas not found
+2019-09-30 16:48:03,524 - INFO - Client 127.0.0.1:53425 was connected
+2019-09-30 16:48:08,156 - DEBUG - request: {'action': 'echo', 'data': 'asasa', 'time': 1569851283.518434} - type data: <class 'str'> -  response: {'action': 'echo', 'time': 1569850717.002007, 'code': 200, 'data': 'asasa'}
+2019-09-30 16:48:08,156 - DEBUG - Request: {"action": "echo", "data": "asasa", "time": 1569851283.518434}
